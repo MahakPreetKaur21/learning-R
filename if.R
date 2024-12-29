@@ -3,7 +3,7 @@
 
 #----- -2 ------ -1---- 0 ---- 1 ----
 
-#rn(orm -> normal distribution
+#rnorm -> normal distribution
 #rm(answer)(random variable)
 x<-rnorm(1)
 if(x>1){
